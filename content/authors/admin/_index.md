@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Wilhelmina van Dijk
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: "Dean's Postdoctoral scholar in Developmental Psychology"
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Florida State University
+  url: "www.fsu.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include reading development, quantitative methods, and reading instruction. 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Reading Development
+- Quantitative Methodologies
+- Reading Instruction
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Special Education
+    institution: University of Florida
+    year: 2019
+  - course: MEd in Special Education
+    institution: East Tennessee State University
+    year: 2014
+  - course: MA in Classical Languages
+    institution: University of Groningen
+    year: 2005
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,21 +44,21 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:wvandijk@fsu.edu 
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/WillavanDijk
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=ULLC99kAAAAJ&hl=en&oi=ao"
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/WilhelminavanDijk
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Willa van Dijk is a Dean's Postdoctoral Scholar in the department of Psychology at Florida State University, affiliated with the Florida Center for Reading Research. Her research focuses on understanding reading development in children and in particular, the reasons why some children struggle to learn to read and what we can do to prevent reading problems. She uses advanced statistical methodologies to examine data. Her current work focuses on using integrative data analysis to combine multiple independent data sets to examine individual differences in response to multi-component reading interventions. 
