@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: The Influence of Student Characteristics on Early Elementary Oral Reading Fluency
+title: The influence of student characteristics on early elementary oral reading fluency
 subtitle: ''
 summary: ''
 authors:
 - Wilhelmina van Dijk
 tags: []
 categories: []
-date: -01-01
-lastmod: 2020-09-30T11:13:36-04:00
+date: '2018-01-01'
+lastmod: 2021-04-21T11:05:01-04:00
 featured: false
 draft: false
 
@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-30T15:13:36.611153Z'
+publishDate: '2021-04-21T15:05:01.472189Z'
 publication_types:
 - 2
 abstract: Oral Reading Fluency (ORF) is a widely-used index of reading ability in
@@ -42,5 +42,5 @@ abstract: Oral Reading Fluency (ORF) is a widely-used index of reading ability i
   student characteristics changed depending on SPED status, and this was also a significant
   moderator on grade level (ΔR2 = .002 F2, 2623 = 4.12, p = .016). The use of these
   results in subsequent research is discussed.
-publication: ''
+publication: '*The Journal of Special Education Apprenticeship*'
 ---

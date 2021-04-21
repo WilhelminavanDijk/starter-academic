@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Effects of Different Camera Perspectives on Preservice Teachers’ Written Reflections
+title: Effects of different camera perspectives on preservice teachers’ written reflections
 subtitle: ''
 summary: ''
 authors:
@@ -9,8 +9,8 @@ authors:
 - Holly B Lane
 tags: []
 categories: []
-date: -01-01
-lastmod: 2020-09-30T11:13:37-04:00
+date: '2019-01-01'
+lastmod: 2021-04-21T11:05:01-04:00
 featured: false
 draft: false
 
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-30T15:13:36.803503Z'
+publishDate: '2021-04-21T15:05:01.665030Z'
 publication_types:
 - 2
 abstract: Promoting meaningful reflection from teacher candidates is an ongoing challenge
@@ -44,5 +44,5 @@ abstract: Promoting meaningful reflection from teacher candidates is an ongoing 
   type of reflective statements. In general, candidates preferred the traditional
   camera setup, but the head-mounted camera did offer some advantages. Implications
   for practice and future research are discussed.
-publication: ''
+publication: '*The Journal of Special Education Apprenticeship*'
 ---
