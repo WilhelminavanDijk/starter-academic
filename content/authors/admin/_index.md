@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: "Dean's Postdoctoral scholar in Developmental Psychology"
+role: "Assistant Professor of Special Education"
 
 # Organizations/Affiliations
 organizations:
-- name: Florida State University
-  url: "www.fsu.edu"
+- name: Utah State University
+  url: "www.usu.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include reading development, quantitative methods, and reading instruction. 
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:wvandijk@fsu.edu 
+  link: mailto:willa.vandijk@usu.edu 
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/WillavanDijk
@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Willa van Dijk is a Dean's Postdoctoral Scholar in the department of Psychology at Florida State University, affiliated with the Florida Center for Reading Research. Her research focuses on understanding reading development in children and in particular, the reasons why some children struggle to learn to read and what we can do to prevent reading problems. She uses advanced statistical methodologies to examine data. Her current work focuses on using integrative data analysis to combine multiple independent data sets to examine individual differences in response to multi-component reading interventions. 
+Willa van Dijk is an assistant professor of special education in the   department of Special Education and Rehabilitation Counseling at Utah State University. Her research focuses on understanding reading development in children and in particular, the reasons why some children struggle to learn to read and what we can do to prevent reading problems. She uses advanced statistical methodologies to examine data. Her current work focuses on using integrative data analysis to combine multiple independent data sets to examine individual differences in response to multi-component reading interventions. She also examines the use of Open Science Practices in educational research.
