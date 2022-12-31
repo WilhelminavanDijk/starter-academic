@@ -39,7 +39,8 @@ date_format = "Jan 2006"
   * Robbie Cromwell (MEd)
   * Dixie Poulsen (MEd)
   """
-
+  
+[[experience]]
   title = "Dean's Postdoctoral Scholar"
   company = "Department of Psychology & the Florida Center for Reading Research at Florida State University"
   company_url = "www.fcrr.org"
