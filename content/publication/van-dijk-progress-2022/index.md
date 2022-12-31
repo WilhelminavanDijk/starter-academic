@@ -1,21 +1,16 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: A How-To Guide for Open-Science Practices in Special Education Research
+title: 'Progress monitoring: Assessment and measurement.'
 subtitle: ''
 summary: ''
 authors:
-- B. G. Cook
-- J. I. Fleming
-- S. A. Hart
-- Kathleen Lynne Lane
-- William J. Therrien
-- Wilhelmina van Dijk
-- S. E. Wilson
+- W. van Dijk
+- Nicolette M. Grasley-Boy
 tags: []
 categories: []
-date: '2021-01-01'
-lastmod: 2021-06-11T14:14:17-04:00
+date: '2022-01-01'
+lastmod: 2022-12-31T14:08:31-07:00
 featured: false
 draft: false
 
@@ -33,11 +28,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-06-11T18:14:17.594576Z'
+publishDate: '2022-12-31T21:08:31.818194Z'
 publication_types:
-- 2
+- '6'
 abstract: ''
-publication: '*Remedial and Special Education*'
-url_pdf: https://journals.sagepub.com/doi/10.1177/07419325211019100
-doi: 10.1177/07419325211019100
+publication: '*Teaching students with emotional and behavioral disorders*'
 ---

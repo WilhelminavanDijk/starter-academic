@@ -1,22 +1,21 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: A How-To Guide for Open-Science Practices in Special Education Research
+title: 'Exploring individual differences in response to reading intervention: Data
+  from Project KIDS (Kids and Individual Differences in Schools)'
 subtitle: ''
 summary: ''
 authors:
-- B. G. Cook
-- J. I. Fleming
-- S. A. Hart
-- Kathleen Lynne Lane
-- William J. Therrien
 - Wilhelmina van Dijk
-- S. E. Wilson
+- Cynthia U. Norris
+- Stephanie Al Otaiba
+- Christopher Schatschneider
+- Sara A. Hart
 tags: []
 categories: []
-date: '2021-01-01'
-lastmod: 2021-06-11T14:14:17-04:00
-featured: false
+date: '2022-02-01'
+lastmod: 2022-12-31T14:08:32-07:00
+featured: true
 draft: false
 
 # Featured image
@@ -33,11 +32,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-06-11T18:14:17.594576Z'
+publishDate: '2022-12-31T21:08:32.045685Z'
 publication_types:
-- 2
+- '2'
 abstract: ''
-publication: '*Remedial and Special Education*'
-url_pdf: https://journals.sagepub.com/doi/10.1177/07419325211019100
-doi: 10.1177/07419325211019100
+publication: '*Journal of Open Psychology Data*'
+doi: 10.5334/jopd.58
+links:
+- name: URL
+  url: http://openpsychologydata.metajnl.com/articles/10.5334/jopd.58/
 ---
