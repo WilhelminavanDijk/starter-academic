@@ -24,6 +24,7 @@ interests:
 - Reading Development
 - Quantitative Methodologies
 - Reading Instruction
+- Teacher Preparation
 
 education:
   courses:
@@ -70,4 +71,6 @@ user_groups:
 - Visitors
 ---
 
-Willa van Dijk is an assistant professor of special education in the   department of Special Education and Rehabilitation Counseling at Utah State University. Her research focuses on understanding reading development in children and in particular, the reasons why some children struggle to learn to read and what we can do to prevent reading problems. She uses advanced statistical methodologies to examine data. Her current work focuses on using integrative data analysis to combine multiple independent data sets to examine individual differences in response to multi-component reading interventions. She also examines the use of Open Science Practices in educational research...
+Willa van Dijk is an assistant professor of special education in the department of Special Education and Rehabilitation Counseling at Utah State University. Her research focuses on understanding reading development in children and in particular, the reasons why some children struggle to learn to read and what we can do to prevent reading problems. She uses advanced statistical methodologies to examine data. Her current work focuses on using integrative data analysis to combine multiple independent data sets to examine individual differences in response to multi-component reading interventions. In addition, she researchers effective ways to prepare and retain special education teachers. Current project related to this include social support networks and their relation to intent-to-stay in the field, and the effect of fiscal incentives to become a special educator. Willa applies Open Science Practices in her work and also examines the use of Open Science Practices in educational research.
+
+Willa is currently accepting doctoral students for Fall 2023.
